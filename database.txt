@@ -1,0 +1,6 @@
+New user
+y
+w
+New user
+name
+pass
